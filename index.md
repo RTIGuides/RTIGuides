@@ -1,7 +1,7 @@
 # RTI Guides
 
-[ArcDPS Guide](ArcDPS Guide.html)
+[ArcDPS Guide](html/ArcDPS Guide.html)
 
-[Commanding Notes](Commanding.html)
+[Commanding Notes](html/Commanding.html)
 
-[Raid Quickstart Guide](Raid Quickstart Guide.html)
+[Raid Quickstart Guide](html/Raid Quickstart Guide.html)
